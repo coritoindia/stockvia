@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/stockvia/static/css/main.e05ce537.chunk.css",
+    "main.js": "/stockvia/static/js/main.a2525177.chunk.js",
+    "main.js.map": "/stockvia/static/js/main.a2525177.chunk.js.map",
+    "runtime-main.js": "/stockvia/static/js/runtime-main.d2834eff.js",
+    "runtime-main.js.map": "/stockvia/static/js/runtime-main.d2834eff.js.map",
+    "static/css/2.f2512455.chunk.css": "/stockvia/static/css/2.f2512455.chunk.css",
+    "static/js/2.19525c1d.chunk.js": "/stockvia/static/js/2.19525c1d.chunk.js",
+    "static/js/2.19525c1d.chunk.js.map": "/stockvia/static/js/2.19525c1d.chunk.js.map",
+    "static/js/3.577a8cf6.chunk.js": "/stockvia/static/js/3.577a8cf6.chunk.js",
+    "static/js/3.577a8cf6.chunk.js.map": "/stockvia/static/js/3.577a8cf6.chunk.js.map",
+    "index.html": "/stockvia/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/stockvia/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.e05ce537.chunk.css.map": "/stockvia/static/css/main.e05ce537.chunk.css.map",
+    "static/js/2.19525c1d.chunk.js.LICENSE.txt": "/stockvia/static/js/2.19525c1d.chunk.js.LICENSE.txt",
+    "static/media/app-store.c5d657a5.svg": "/stockvia/static/media/app-store.c5d657a5.svg",
+    "static/media/google-play.53e265b8.svg": "/stockvia/static/media/google-play.53e265b8.svg",
+    "static/media/logo.53262a8c.png": "/stockvia/static/media/logo.53262a8c.png",
+    "static/media/logoBlack.ed3151f8.png": "/stockvia/static/media/logoBlack.ed3151f8.png",
+    "static/media/stockimage.8143301f.svg": "/stockvia/static/media/stockimage.8143301f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2834eff.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.19525c1d.chunk.js",
+    "static/css/main.e05ce537.chunk.css",
+    "static/js/main.a2525177.chunk.js"
+  ]
+}
